@@ -1,1 +1,219 @@
 
+
+body{
+background-image: url(https://images.pexels.com/photos/1629998/pexels-photo-1629998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+background-size: cover;
+border:solid 0px;
+}
+.logo-light{
+
+border:solid 0px;
+margin-left: 1050px;
+margin-top: 15px;
+}
+#personal{
+border:solid 0px;
+width: 10%;
+margin-left: 200px;
+border-radius: 50%;
+}
+.p{
+border:solid 0px;
+margin-left: 370px;
+margin-top: -145px;
+font-family: 'Raleway', sans-serif;
+font-size: 23px;
+font-weight: 800;
+border-bottom: 2px solid #0766A4;
+width: 30%;
+padding-bottom: 13px;
+text-transform: uppercase;
+color: #F09522;
+}
+.pp{
+border:solid 0px;
+margin-left: 370px;
+color: white;
+font-family: 'Raleway', sans-serif;
+padding-right: 100px;
+}
+.phone1{
+margin-left: -20px;
+font-family: 'Raleway', sans-serif;
+font-weight: 400;
+color: white;
+border-bottom: solid 3px #0766A4;
+width: 93px;
+padding-bottom: 3px;
+}
+
+.all{
+border:solid 0px;
+margin-left: 660px;
+}
+
+.fblogo{
+border:solid 0px;
+margin-top: 220px;
+}
+.instalogo{
+border:solid 0px;
+}
+.tiwtterlogo{
+border:solid 0px;
+
+}
+.gmaillogo{
+border:solid 0px;
+
+
+}
+
+
+.myaccount{
+border:solid 0px;
+
+}
+
+
+.myworks{
+border:solid 0px;
+
+}
+.kk{
+border:solid 0px;
+margin-left: 470px; 
+margin-top: -230px;
+
+}
+.phph{
+margin-top: -20px;
+
+}
+.account{
+border:solid 0px;
+margin-left: 700px;
+margin-top: -89px;
+
+}
+.accountw{
+
+border:solid 0px;
+margin-left: 683px;
+margin-top: -14px;
+font-family: 'Raleway', sans-serif;
+font-weight: 400;
+color: white;
+
+}
+.myaccount1{
+border-bottom: solid 3px #0766A4;
+width: 93px;
+padding-bottom: 3px;
+}
+.personalclass{
+
+margin-top: 80px;
+}
+.myworkss{
+margin-left: 930px;
+margin-top: -83px;
+}
+.myworksss{
+margin-left: 913px;
+margin-top: -15px;
+font-family: 'Raleway', sans-serif;
+font-weight: 400;
+color: white;
+
+
+
+}
+.myworks1{
+border-bottom: solid 3px #0766A4;
+width: 93px;
+padding-bottom: 3px;
+}
+
+
+
+.logoss{
+margin-left: 715px;
+}
+.lol{
+margin-left: 699px;
+margin-top: 22px;
+
+}
+.fb{
+
+color: #4267b2;
+font-weight: 590;
+}
+.insta{
+
+font-weight: 590;
+}
+.twit{
+color: #1da1f2;
+font-weight: 570;
+}
+.gm{
+color: #B23121;
+font-weight: 570;
+}
+
+
+.codwarslogo{
+margin-left:900px;
+margin-top: -150px;
+
+
+}
+.codwarss{
+border:solid 0px;
+width: 8%;
+}
+
+.codewaars{
+margin-left: 942px;
+margin-top: -55px;
+}
+.codee{
+
+border:solid 0px;
+font-weight: 700;
+color: #B23121;
+
+
+}
+
+.freecodecampdiv{
+margin-left:910px;
+
+
+
+}
+
+
+.freecodecampp{
+border:solid 0px;
+width: 30%;
+margin-top: 15px;
+
+}
+.info{
+margin-left: 410px;
+margin-top: -85px;
+}
+.pho{
+
+font-weight: 600;
+color: #cdcdcd;
+}
+
+.ema{
+font-weight: 600;
+color: #cdcdcd;
+}
+
